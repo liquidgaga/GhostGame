@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhostGame", "GhostGame\GhostGame\GhostGame.csproj", "{10E14B23-6E1F-47B6-9B8D-42DDC137B0E4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GhostGameContent", "GhostGame\GhostGameContent\GhostGameContent.contentproj", "{C4B91648-5A6D-49CD-9022-73389D682A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10E14B23-6E1F-47B6-9B8D-42DDC137B0E4}.Debug|x86.ActiveCfg = Debug|x86
+		{10E14B23-6E1F-47B6-9B8D-42DDC137B0E4}.Debug|x86.Build.0 = Debug|x86
+		{10E14B23-6E1F-47B6-9B8D-42DDC137B0E4}.Release|x86.ActiveCfg = Release|x86
+		{10E14B23-6E1F-47B6-9B8D-42DDC137B0E4}.Release|x86.Build.0 = Release|x86
+		{C4B91648-5A6D-49CD-9022-73389D682A45}.Debug|x86.ActiveCfg = Debug|x86
+		{C4B91648-5A6D-49CD-9022-73389D682A45}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
